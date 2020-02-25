@@ -1,4 +1,4 @@
-#app2 : Webmap
+# app2 : Webmap
 
 A python app that generates webmap.
  - active volcanoes in the Philippines
